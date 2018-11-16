@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1542199167 source:c:\users\pierr\documents\c\coeur de led\main.c
+	<stdio.h>
+	<stdlib.h>
+	"generationCode.h"
+	"menu.h"
+
+1542198309 c:\users\pierr\documents\c\coeur de led\generationcode.h
+
+1542198309 c:\users\pierr\documents\c\coeur de led\menu.h
+
+1542198514 source:c:\users\pierr\documents\c\coeur de led\menu.c
+	<stdlib.h>
+	<stdio.h>
+	"generationCode.h"
+
+1542198405 source:c:\users\pierr\documents\c\coeur de led\generationcode.c
+	<stdio.h>
+	<stdlib.h>
+	"generationCode.h"
+
+1542199167 source:c:\users\pierr\desktop\module n°2\coeur de led\main.c
+	<stdio.h>
+	<stdlib.h>
+	"generationCode.h"
+	"menu.h"
+
+1542198309 c:\users\pierr\desktop\module n°2\coeur de led\generationcode.h
+
+1542198309 c:\users\pierr\desktop\module n°2\coeur de led\menu.h
+
+1542198514 source:c:\users\pierr\desktop\module n°2\coeur de led\menu.c
+	<stdlib.h>
+	<stdio.h>
+	"generationCode.h"
+
