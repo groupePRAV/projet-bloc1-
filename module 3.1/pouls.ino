@@ -6,6 +6,8 @@ void setup() {
   time = millis();
   while (millis()-time<15000){
     cardio();
+    Serial.println(";");
+    Serial.println(millis()-time);
   }
 }
 void loop() {
