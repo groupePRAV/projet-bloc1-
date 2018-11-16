@@ -1,0 +1,66 @@
+# depslib dependency file v1.0
+1542299119 source:c:\users\romai\desktop\exia cesi\prosit\projets\projet fondamentaux scientifiques\module 4\main.c
+	<stdio.h>
+	<stdlib.h>
+	"actions.h"
+	"donnees.h"
+	"menu.h"
+
+1542296873 c:\users\romai\desktop\exia cesi\prosit\projets\projet fondamentaux scientifiques\module 4\actions.h
+	"actions.c"
+
+1542296850 c:\users\romai\desktop\exia cesi\prosit\projets\projet fondamentaux scientifiques\module 4\actions.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1542292550 c:\users\romai\desktop\exia cesi\prosit\projets\projet fondamentaux scientifiques\module 4\donnees.h
+	"donnees.c"
+
+1542299811 c:\users\romai\desktop\exia cesi\prosit\projets\projet fondamentaux scientifiques\module 4\donnees.c
+	<stdio.h>
+	<stdlib.h>
+
+1542297074 c:\users\romai\desktop\exia cesi\prosit\projets\projet fondamentaux scientifiques\module 4\menu.h
+	"menu.c"
+
+1542297064 c:\users\romai\desktop\exia cesi\prosit\projets\projet fondamentaux scientifiques\module 4\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"actions.h"
+	"donnees.h"
+	"menu.h"
+
+1542356165 source:c:\users\romai\desktop\exia cesi\projets\projet fondamentaux scientifiques\module 4\main.c
+	<stdio.h>
+	<stdlib.h>
+	"actions.h"
+	"donnees.h"
+	"menu.h"
+
+1542370116 c:\users\romai\desktop\exia cesi\projets\projet fondamentaux scientifiques\module 4\actions.h
+	"actions.c"
+
+1542370125 c:\users\romai\desktop\exia cesi\projets\projet fondamentaux scientifiques\module 4\actions.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<conio.h>
+
+1542360037 c:\users\romai\desktop\exia cesi\projets\projet fondamentaux scientifiques\module 4\donnees.h
+	"donnees.c"
+
+1542360945 c:\users\romai\desktop\exia cesi\projets\projet fondamentaux scientifiques\module 4\donnees.c
+	<stdio.h>
+	<stdlib.h>
+
+1542355747 c:\users\romai\desktop\exia cesi\projets\projet fondamentaux scientifiques\module 4\menu.h
+	"menu.c"
+
+1542370116 c:\users\romai\desktop\exia cesi\projets\projet fondamentaux scientifiques\module 4\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"actions.h"
+	"donnees.h"
+	"menu.h"
+
